@@ -1,0 +1,2 @@
+# k23cnt3_BuiThiQuynhNga_NetCore
+k23cnt3_BuiThiQuynhNga_NetCore
