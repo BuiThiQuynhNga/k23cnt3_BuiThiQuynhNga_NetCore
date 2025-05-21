@@ -1,0 +1,31 @@
+﻿@model IEnumerable<BtqnLesson05Model.Models.DataModels.BtqnMember>;
+@{
+    ViewData["Title"] = "BtqnIndex";
+}
+
+<h1>Danh sach member</h1>
+ 
+<table class ="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Member Id</th>
+            <th>Member UserName</th>
+            <th>Member Password</th>
+            <th>Member FullName</th>
+            <th>Member Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var btqnItem in Model)
+        {
+            <tr>
+                <td>@btqnItem.BtqnMemberId</td>
+                <td>@btqnItem.BtqnUserName</td>
+                <td>@btqnItem.BtqnPassword</td>
+                <td>@btqnItem.BtqnFullName</td>
+                <td>@btqnItem.BtqnEmail</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
