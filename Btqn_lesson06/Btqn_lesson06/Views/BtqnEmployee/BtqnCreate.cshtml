@@ -1,0 +1,71 @@
+﻿@model Btqn_lesson06.Models.BtqnEmployee
+
+@{
+    ViewData["Title"] = "Thêm mới Sinh Viên";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-lg border-0 rounded-4 bg-light">
+        <div class="card-header bg-info text-white rounded-top-4">
+            <h4 class="mb-0 fw-bold">
+                <i class="bi bi-person-plus-fill me-2"></i> Thêm mới Sinh Viên
+            </h4>
+        </div>
+
+        <div class="card-body p-4">
+            <form asp-action="BtqnCreateSubmit" method="post" class="needs-validation" novalidate>
+                <div class="mb-3">
+                    <label asp-for="BtqnName" class="form-label fw-semibold text-primary">Họ Tên</label>
+                    <input asp-for="BtqnName" class="form-control border-info" required />
+                    <span asp-validation-for="BtqnName" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="BtqnBirthDay" class="form-label fw-semibold text-primary">Ngày Sinh</label>
+                    <input asp-for="BtqnBirthDay" type="date" class="form-control border-info" required />
+                    <span asp-validation-for="BtqnBirthDay" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="BtqnEmail" class="form-label fw-semibold text-primary">Email</label>
+                    <input asp-for="BtqnEmail" type="email" class="form-control border-info" required />
+                    <span asp-validation-for="BtqnEmail" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="BtqnPhone" class="form-label fw-semibold text-primary">Điện Thoại</label>
+                    <input asp-for="BtqnPhone" class="form-control border-info" required />
+                    <span asp-validation-for="BtqnPhone" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="BtqnSalary" class="form-label fw-semibold text-primary">Lương</label>
+                    <input asp-for="BtqnSalary" type="number" step="0.01" class="form-control border-info" required />
+                    <span asp-validation-for="BtqnSalary" class="text-danger"></span>
+                </div>
+
+                <div class="form-check form-switch mb-4 ps-0">
+                    <div class="form-check ps-4">
+                        <input asp-for="BtqnStatus" class="form-check-input" type="checkbox" role="switch" />
+                        <label asp-for="BtqnStatus" class="form-check-label text-primary fw-semibold">
+                            Đang Làm Việc
+                        </label>
+                    </div>
+                </div>
+
+                <div class="d-flex justify-content-end">
+                    <button type="submit" class="btn btn-info text-white me-2 px-4">
+                        <i class="bi bi-check-circle me-1"></i> Lưu
+                    </button>
+                    <a asp-action="Index" class="btn btn-outline-secondary px-4">
+                        <i class="bi bi-x-circle me-1"></i> Hủy
+                    </a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

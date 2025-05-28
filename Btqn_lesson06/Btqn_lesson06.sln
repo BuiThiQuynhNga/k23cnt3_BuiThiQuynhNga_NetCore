@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Btqn_lesson06", "Btqn_lesson06\Btqn_lesson06.csproj", "{B12581D7-C1B0-4747-BE41-DFB5C8CA6B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B12581D7-C1B0-4747-BE41-DFB5C8CA6B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B12581D7-C1B0-4747-BE41-DFB5C8CA6B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B12581D7-C1B0-4747-BE41-DFB5C8CA6B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B12581D7-C1B0-4747-BE41-DFB5C8CA6B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {968F73F2-6E11-44E0-AB11-BDD5EB995D7D}
+	EndGlobalSection
+EndGlobal
