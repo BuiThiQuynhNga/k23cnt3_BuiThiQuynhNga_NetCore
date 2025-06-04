@@ -1,0 +1,59 @@
+﻿@model Btqn_lesson07.Models.BtqnEmployee
+
+@{
+    ViewData["Title"] = "Thêm mới nv";
+}
+
+<h1>BtqnCreate</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="BtqnCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="BtqnId" class="control-label"></label>
+                <input asp-for="BtqnId" class="form-control" />
+                <span asp-validation-for="BtqnId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BtqnName" class="control-label"></label>
+                <input asp-for="BtqnName" class="form-control" />
+                <span asp-validation-for="BtqnName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BtqnBirthDay" class="control-label"></label>
+                <input asp-for="BtqnBirthDay" class="form-control" />
+                <span asp-validation-for="BtqnBirthDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BtqnEmail" class="control-label"></label>
+                <input asp-for="BtqnEmail" class="form-control" />
+                <span asp-validation-for="BtqnEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BtqnPhone" class="control-label"></label>
+                <input asp-for="BtqnPhone" class="form-control" />
+                <span asp-validation-for="BtqnPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BtqnSalary" class="control-label"></label>
+                <input asp-for="BtqnSalary" class="form-control" />
+                <span asp-validation-for="BtqnSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="BtqnStatus" /> @Html.DisplayNameFor(model => model.BtqnStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="BtqnCreate" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="BtqnIndex">Back to List</a>
+</div>
+

@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|c:\\users\\lenovo\\k23cnt3_buithiquynhnga_netcore\\btqn_lesson07\\btqn_lesson07\\views\\btqnemployee\\btqndetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|solutionrelative:btqn_lesson07\\views\\btqnemployee\\btqndetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|c:\\users\\lenovo\\k23cnt3_buithiquynhnga_netcore\\btqn_lesson07\\btqn_lesson07\\controllers\\btqnemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|solutionrelative:btqn_lesson07\\controllers\\btqnemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|c:\\users\\lenovo\\k23cnt3_buithiquynhnga_netcore\\btqn_lesson07\\btqn_lesson07\\views\\btqnemployee\\btqnindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|solutionrelative:btqn_lesson07\\views\\btqnemployee\\btqnindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|c:\\users\\lenovo\\k23cnt3_buithiquynhnga_netcore\\btqn_lesson07\\btqn_lesson07\\views\\btqnemployee\\btqnedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|solutionrelative:btqn_lesson07\\views\\btqnemployee\\btqnedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|c:\\users\\lenovo\\k23cnt3_buithiquynhnga_netcore\\btqn_lesson07\\btqn_lesson07\\views\\btqnemployee\\btqncreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|solutionrelative:btqn_lesson07\\views\\btqnemployee\\btqncreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|c:\\users\\lenovo\\k23cnt3_buithiquynhnga_netcore\\btqn_lesson07\\btqn_lesson07\\views\\shared\\_btqnnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|solutionrelative:btqn_lesson07\\views\\shared\\_btqnnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|c:\\users\\lenovo\\k23cnt3_buithiquynhnga_netcore\\btqn_lesson07\\btqn_lesson07\\views\\shared\\_btqnlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|solutionrelative:btqn_lesson07\\views\\shared\\_btqnlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|c:\\users\\lenovo\\k23cnt3_buithiquynhnga_netcore\\btqn_lesson07\\btqn_lesson07\\controllers\\btqnhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|solutionrelative:btqn_lesson07\\controllers\\btqnhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|c:\\users\\lenovo\\k23cnt3_buithiquynhnga_netcore\\btqn_lesson07\\btqn_lesson07\\views\\btqnhome\\btqnabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|solutionrelative:btqn_lesson07\\views\\btqnhome\\btqnabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|c:\\users\\lenovo\\k23cnt3_buithiquynhnga_netcore\\btqn_lesson07\\btqn_lesson07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|solutionrelative:btqn_lesson07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|c:\\users\\lenovo\\k23cnt3_buithiquynhnga_netcore\\btqn_lesson07\\btqn_lesson07\\models\\btqnemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|solutionrelative:btqn_lesson07\\models\\btqnemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|c:\\users\\lenovo\\k23cnt3_buithiquynhnga_netcore\\btqn_lesson07\\btqn_lesson07\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|solutionrelative:btqn_lesson07\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|c:\\users\\lenovo\\k23cnt3_buithiquynhnga_netcore\\btqn_lesson07\\btqn_lesson07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47E6E49C-50B1-4EB0-8240-CEAEB680F46A}|Btqn_lesson07\\Btqn_lesson07.csproj|solutionrelative:btqn_lesson07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BtqnDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Views\\BtqnEmployee\\BtqnDetails.cshtml",
+              "RelativeDocumentMoniker": "Btqn_lesson07\\Views\\BtqnEmployee\\BtqnDetails.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Views\\BtqnEmployee\\BtqnDetails.cshtml",
+              "RelativeToolTip": "Btqn_lesson07\\Views\\BtqnEmployee\\BtqnDetails.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T03:49:22.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BtqnIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Views\\BtqnEmployee\\BtqnIndex.cshtml",
+              "RelativeDocumentMoniker": "Btqn_lesson07\\Views\\BtqnEmployee\\BtqnIndex.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Views\\BtqnEmployee\\BtqnIndex.cshtml",
+              "RelativeToolTip": "Btqn_lesson07\\Views\\BtqnEmployee\\BtqnIndex.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T03:21:10.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BtqnEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Views\\BtqnEmployee\\BtqnEdit.cshtml",
+              "RelativeDocumentMoniker": "Btqn_lesson07\\Views\\BtqnEmployee\\BtqnEdit.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Views\\BtqnEmployee\\BtqnEdit.cshtml",
+              "RelativeToolTip": "Btqn_lesson07\\Views\\BtqnEmployee\\BtqnEdit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T03:30:29.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BtqnCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Views\\BtqnEmployee\\BtqnCreate.cshtml",
+              "RelativeDocumentMoniker": "Btqn_lesson07\\Views\\BtqnEmployee\\BtqnCreate.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Views\\BtqnEmployee\\BtqnCreate.cshtml",
+              "RelativeToolTip": "Btqn_lesson07\\Views\\BtqnEmployee\\BtqnCreate.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T03:06:49.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Btqn_lesson07\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Btqn_lesson07\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T02:18:23.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BtqnEmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Controllers\\BtqnEmployeeController.cs",
+              "RelativeDocumentMoniker": "Btqn_lesson07\\Controllers\\BtqnEmployeeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Controllers\\BtqnEmployeeController.cs",
+              "RelativeToolTip": "Btqn_lesson07\\Controllers\\BtqnEmployeeController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwEUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:00:00.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BtqnEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Models\\BtqnEmployee.cs",
+              "RelativeDocumentMoniker": "Btqn_lesson07\\Models\\BtqnEmployee.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Models\\BtqnEmployee.cs",
+              "RelativeToolTip": "Btqn_lesson07\\Models\\BtqnEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T01:55:59.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Program.cs",
+              "RelativeDocumentMoniker": "Btqn_lesson07\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Program.cs",
+              "RelativeToolTip": "Btqn_lesson07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T01:53:59.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BtqnAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Views\\BtqnHome\\BtqnAbout.cshtml",
+              "RelativeDocumentMoniker": "Btqn_lesson07\\Views\\BtqnHome\\BtqnAbout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Views\\BtqnHome\\BtqnAbout.cshtml",
+              "RelativeToolTip": "Btqn_lesson07\\Views\\BtqnHome\\BtqnAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T01:46:15.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BtqnHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Controllers\\BtqnHomeController.cs",
+              "RelativeDocumentMoniker": "Btqn_lesson07\\Controllers\\BtqnHomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Controllers\\BtqnHomeController.cs",
+              "RelativeToolTip": "Btqn_lesson07\\Controllers\\BtqnHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T01:45:25.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_BtqnLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Views\\Shared\\_BtqnLayout.cshtml",
+              "RelativeDocumentMoniker": "Btqn_lesson07\\Views\\Shared\\_BtqnLayout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Views\\Shared\\_BtqnLayout.cshtml",
+              "RelativeToolTip": "Btqn_lesson07\\Views\\Shared\\_BtqnLayout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T01:43:10.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_BtqnNavBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Views\\Shared\\_BtqnNavBar.cshtml",
+              "RelativeDocumentMoniker": "Btqn_lesson07\\Views\\Shared\\_BtqnNavBar.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Views\\Shared\\_BtqnNavBar.cshtml",
+              "RelativeToolTip": "Btqn_lesson07\\Views\\Shared\\_BtqnNavBar.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T01:42:53.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Btqn_lesson07\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\k23cnt3_BuiThiQuynhNga_NetCore\\Btqn_lesson07\\Btqn_lesson07\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Btqn_lesson07\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T01:24:11.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
