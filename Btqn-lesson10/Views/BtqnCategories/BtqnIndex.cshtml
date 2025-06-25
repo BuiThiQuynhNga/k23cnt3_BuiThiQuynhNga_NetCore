@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Btqn_lesson10.Models.BtqnCategory>
+
+@{
+    ViewData["Title"] = "Danh Mục Loại";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="BtqnCreate" class="btn btn-primary">Thêm Mới</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BtqnId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BtqnName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BtqnStatus)
+            </th>
+            <th>Chức Năng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayNameFor(model => model.BtqnId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BtqnName)
+                </td>
+                <td>
+                    @if (item.BtqnStatus == true)
+                    {
+                        <text>Hiển Thị</text>
+                    }
+                    else
+                    {
+                        <text>Tạm Khoá</text>
+                    }
+                </td>
+            <td>
+                <a asp-action="BtqnEdit" asp-route-btqnId="@item.BtqnId">Sửa</a> |
+                    <a asp-action="BtqnDetails" asp-route-btqnId="@item.BtqnId">Xem</a> |
+                    <a asp-action="BtqnDelete" asp-route-btqnId="@item.BtqnId">Xoá</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

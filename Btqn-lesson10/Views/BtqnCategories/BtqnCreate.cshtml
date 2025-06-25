@@ -1,0 +1,46 @@
+﻿@model Btqn_lesson10.Models.BtqnCategory
+
+@{
+    ViewData["Title"] = "Thêm Mới Danh Mục Loại";
+}
+
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="BtqnCreate">
+            <div class="card">
+                <div class="card-header">
+                    <h1>@ViewData["Title"]</h1>
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                </div>
+                <div class="card-body">
+                    <div class="form-group mb-3">
+                        <label asp-for="BtqnId" class="control-label"></label>
+                        <input asp-for="BtqnId" class="form-control" />
+                        <span asp-validation-for="BtqnId" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mb-3">
+                        <label asp-for="BtqnName" class="control-label"></label>
+                        <input asp-for="BtqnName" class="form-control" />
+                        <span asp-validation-for="BtqnName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group form-check mb-3">
+                        <input asp-for="BtqnStatus" class="form-check-input" />
+                        <label asp-for="BtqnStatus" class="form-check-label"></label>
+                        <span asp-validation-for="BtqnStatus" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="card-footer text-end">
+                    <input type="submit" value="Ghi Lại" class="btn btn-primary" />
+                    <a asp-action="BtqnIndex" class="btn btn-secondary ms-2">Quay Về</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
