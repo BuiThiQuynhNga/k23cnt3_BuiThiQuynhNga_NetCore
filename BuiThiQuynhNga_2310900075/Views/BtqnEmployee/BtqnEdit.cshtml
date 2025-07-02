@@ -1,0 +1,49 @@
+﻿@model BuiThiQuynhNga_2310900075.Models.BtqnEmployee
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>BtqnEmployee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="BtqnEmpld" />
+            <div class="form-group">
+                <label asp-for="BtqnEmpName" class="control-label"></label>
+                <input asp-for="BtqnEmpName" class="form-control" />
+                <span asp-validation-for="BtqnEmpName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BtqnEmpLevel" class="control-label"></label>
+                <input asp-for="BtqnEmpLevel" class="form-control" />
+                <span asp-validation-for="BtqnEmpLevel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BtqnEmpStartDate" class="control-label"></label>
+                <input asp-for="BtqnEmpStartDate" class="form-control" />
+                <span asp-validation-for="BtqnEmpStartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BtqnEmpStatus" class="control-label"></label>
+                <input asp-for="BtqnEmpStatus" class="form-control" />
+                <span asp-validation-for="BtqnEmpStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

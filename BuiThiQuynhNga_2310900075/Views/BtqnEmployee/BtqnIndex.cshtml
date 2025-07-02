@@ -1,0 +1,53 @@
+﻿@model IEnumerable<BuiThiQuynhNga_2310900075.Models.BtqnEmployee>
+
+@{
+    ViewData["Title"] = "BtqnIndex";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="BtqnCreate">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BtqnEmpName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BtqnEmpLevel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BtqnEmpStartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BtqnEmpStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BtqnEmpName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BtqnEmpLevel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BtqnEmpStartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BtqnEmpStatus)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.BtqnEmpld">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.BtqnEmpld">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.BtqnEmpld">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
